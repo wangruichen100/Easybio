@@ -1,0 +1,5 @@
+position_in_gene	group
+150	mutation
+365	mutation
+369	mutation
+
